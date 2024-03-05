@@ -26,6 +26,7 @@ This Weather App is a simple yet powerful tool built using HTML, CSS, and JavaSc
 This project is licensed under the [MIT License](LICENSE).
 
 **Author:**
-[Your Name]
+Kalpesh Gaikar
+
 
 Feel free to contribute to this project by forking it and submitting a pull request with your enhancements or bug fixes. If you encounter any issues or have suggestions for improvement, please open an issue on GitHub. Thank you for using the Weather App!
